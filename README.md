@@ -1,4 +1,4 @@
-EADME.md – โปรแกรมตรวจจับวัตถุด้วย YOLOv5
+## โปรแกรมตรวจจับวัตถุด้วย YOLOv5
 Object Detection with YOLOv5
 รายละเอียดโปรแกรม
 โปรแกรมนี้ใช้ YOLOv5 (You Only Look Once version 5) ซึ่งเป็นโมเดล Object Detection ที่สามารถตรวจจับและระบุพิกัดของวัตถุในภาพหรือวิดีโอได้อย่างรวดเร็วและแม่นยำ
