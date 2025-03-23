@@ -25,3 +25,6 @@ Object Detection with YOLOv5
 
 แสดงชื่อวัตถุพร้อมค่าความมั่นใจบนภาพ
 
+![1](images/1.png)
+
+
