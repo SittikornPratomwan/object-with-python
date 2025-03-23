@@ -34,4 +34,9 @@ Object Detection with YOLOv5
 
 ![3](images/3.png)
 
+รูปภาพที่นำไปใช้งานจริง
+![4](images/4.png)
+![5](images/5.png)
+![6](images/6.png)
+
 
