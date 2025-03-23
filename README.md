@@ -4,6 +4,7 @@ Object Detection with YOLOv5
 โปรแกรมนี้ใช้ YOLOv5 (You Only Look Once version 5) ซึ่งเป็นโมเดล Object Detection ที่สามารถตรวจจับและระบุพิกัดของวัตถุในภาพหรือวิดีโอได้อย่างรวดเร็วและแม่นยำ
 
 หลักการทำงาน
+
 1️⃣ โหลดโมเดล YOLOv5
 ใช้โมเดลสำเร็จรูปที่ผ่านการฝึก เช่น yolov5s.pt
 
